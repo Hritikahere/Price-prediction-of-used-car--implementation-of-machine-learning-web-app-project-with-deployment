@@ -1,4 +1,3 @@
-# SQL_Data_Analysis_Airlines_Project
 It covers the complete end-to-end project on data analysis using SQL and Python. # SQL_Data_Analysis_Airlines_Project
 It covers the complete end-to-end project on data analysis using SQL and Python. This project uses a dataset of an airline company who are looking to analyze its database to find ways to increase its occupancy rate, which can help boost the average profit earned per seat. 
 Problem Statement:
