@@ -9,3 +9,6 @@ In this Project, we are going to predict the Price of Used Cars using various fe
 2. If you are searching for Code, Algorithms used and Accuracy of the model Please Open "Used Car Price Prediction.ipynb" file
 
 3. And Please do ⭐ the repository, if it helped you in anyway.
+
+![Screenshot (351)](https://github.com/Hritikahere/Price-prediction-of-used-car--implementation-of-machine-learning-web-app-project-with-deployment/assets/118553851/90bb7a25-1e56-4161-966c-c0d12cd6a234)
+
