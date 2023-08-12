@@ -4,7 +4,7 @@ To be able to predict used cars market value can help both buyers and sellers. T
 In this Project, we are going to predict the Price of Used Cars using various features like Present_Price, Selling_Price, Kms_Driven, Fuel_Type, Year etc. The data used in this project was downloaded from Kaggle.
 
 # WebApp
-1. If you want to view the deployed model, click on the following link: https://ucppredict.herokuapp.com/
+1. This project is deployed with the hep of visual studio.
 
 2. If you are searching for Code, Algorithms used and Accuracy of the model Please Open "Used Car Price Prediction.ipynb" file
 
